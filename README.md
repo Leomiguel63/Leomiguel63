@@ -2,7 +2,6 @@
 
 
 - 🔭 I'm searching a work
-- 🌱 I'm studying javaScript and Java
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Leomiguel63&show_icons=true&theme=dark#gh-dark-mode-only)
 
