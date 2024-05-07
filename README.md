@@ -2,7 +2,7 @@
 
 - 🔭 Hoje sou apenas estudante
 - 🌱 Estudando Java - React 
-- 💬 Contrate - me no email: leonardomiguelr10@gmail.com
+- 💬 Contrate - me no email: leonardomiguelnegocios@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomiguel63&layout=compact)
 
