@@ -1,7 +1,7 @@
 Òla, eu sou o Leonardo Miguel
 
 - 🔭 Hoje sou apenas estudante
-- 🌱 Estudando Java - React 
+- 🌱 Estudando Node.js 
 - 💬 Contrate - me no email: leonardomiguelnegocios@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leomiguel63&layout=compact)
